@@ -1,3 +1,8 @@
+# Hello Pod
+On peut s'amuser avec ça pour tester notre lab !
+
+-------------------
+
 # basic-mmo-phaser
 Very basic multiplayer online game example made with Phaser, Node.js and Socket.io.
 
