@@ -1,13 +1,13 @@
 # Hello Pod DevOps
 On peut s'amuser avec ça pour tester notre lab !
 
-BUILD
+### BUILD
 docker build -t test .
 
-RUN
+### RUN
 docker run -p 8081:8081 -d test
 
-PLAY
+### PLAY
 http://localhost:8081/
 
 La doc de Phaser.io pour ceux qui se prennent au jeu
